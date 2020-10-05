@@ -1,2 +1,2 @@
-# TDT4127-Python-Numerics
+# TDT4127 Python & Numerics
 Python&amp;Numerics @ NTNU
