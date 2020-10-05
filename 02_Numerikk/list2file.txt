@@ -1,0 +1,6 @@
+China PR;Beijing;20693000;1.52
+India;New Delhi;16787949;1.1
+Japan;Tokyo;13491000;10.67
+Philippines;Manila;12877253;12.8
+Russia;Moscow;11541000;8.07
+Egypt;Cairo;10230350;11.1

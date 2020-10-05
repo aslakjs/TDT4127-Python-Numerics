@@ -1,0 +1,9 @@
+1;China PR;Beijing;20,693,000[1];1.52%
+2;India;New Delhi;16,787,949[2];1.10%
+3;Japan;Tokyo;13,491,000[3];10.67%
+4;Philippines;Manila;12,877,253[4];12.8%
+5;Russia;Moscow;11,541,000[5];8.07%
+6;Egypt;Cairo;10,230,350;11.10%
+7;Singapore;Singapore;5,535,000;100.0%
+8;Nigeria;Abuja;778,567;0.45%
+9;Scotland;Edinburgh;1,234,567;0.24%
